@@ -44,4 +44,4 @@ The **Shopping Web** project is an online platform designed to provide users wit
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/shopping-web.git  
+   git clone [https://github.com/ndgbao0402/ShoppingWeb_Group1_CC03.git  
